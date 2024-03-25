@@ -11,8 +11,8 @@
 - source devel/setup.bash
 
 ## 4. Build Perception Package
-`- cd perception_ws
-`- catkin make`
+- cd perception_ws
+- catkin make
 
 
 # B. Launch Step 
