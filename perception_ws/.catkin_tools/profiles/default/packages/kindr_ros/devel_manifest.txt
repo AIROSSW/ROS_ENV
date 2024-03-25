@@ -1,5 +1,0 @@
-kindr_ros/kindr_ros
-/home/ubuntu/keti_ws/elevationmap2_ws/devel/.private/kindr_ros/cmake.lock /home/ubuntu/keti_ws/elevationmap2_ws/devel/./cmake.lock
-/home/ubuntu/keti_ws/elevationmap2_ws/devel/.private/kindr_ros/share/kindr_ros/cmake/kindr_rosConfig-version.cmake /home/ubuntu/keti_ws/elevationmap2_ws/devel/share/kindr_ros/cmake/kindr_rosConfig-version.cmake
-/home/ubuntu/keti_ws/elevationmap2_ws/devel/.private/kindr_ros/share/kindr_ros/cmake/kindr_rosConfig.cmake /home/ubuntu/keti_ws/elevationmap2_ws/devel/share/kindr_ros/cmake/kindr_rosConfig.cmake
-/home/ubuntu/keti_ws/elevationmap2_ws/devel/.private/kindr_ros/lib/pkgconfig/kindr_ros.pc /home/ubuntu/keti_ws/elevationmap2_ws/devel/lib/pkgconfig/kindr_ros.pc

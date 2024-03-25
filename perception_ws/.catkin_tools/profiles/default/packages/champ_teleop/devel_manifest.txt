@@ -1,7 +1,0 @@
-champ_teleop
-/home/ubuntu/keti_ws/ros_env/perception_ws/devel/.private/champ_teleop/cmake.lock /home/ubuntu/keti_ws/ros_env/perception_ws/devel/./cmake.lock
-/home/ubuntu/keti_ws/ros_env/perception_ws/devel/.private/champ_teleop/share/champ_teleop/cmake/champ_teleopConfig-version.cmake /home/ubuntu/keti_ws/ros_env/perception_ws/devel/share/champ_teleop/cmake/champ_teleopConfig-version.cmake
-/home/ubuntu/keti_ws/ros_env/perception_ws/devel/.private/champ_teleop/share/champ_teleop/cmake/champ_teleopConfig.cmake /home/ubuntu/keti_ws/ros_env/perception_ws/devel/share/champ_teleop/cmake/champ_teleopConfig.cmake
-/home/ubuntu/keti_ws/ros_env/perception_ws/devel/.private/champ_teleop/lib/pkgconfig/champ_teleop.pc /home/ubuntu/keti_ws/ros_env/perception_ws/devel/lib/pkgconfig/champ_teleop.pc
-/home/ubuntu/keti_ws/ros_env/perception_ws/devel/.private/champ_teleop/lib/champ_teleop/champ_teleop.py /home/ubuntu/keti_ws/ros_env/perception_ws/devel/lib/champ_teleop/champ_teleop.py
-/home/ubuntu/keti_ws/ros_env/perception_ws/devel/.private/champ_teleop/lib/champ_teleop/cmake.lock /home/ubuntu/keti_ws/ros_env/perception_ws/devel/lib/champ_teleop/cmake.lock

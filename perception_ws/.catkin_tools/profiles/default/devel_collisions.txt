@@ -1,2 +1,0 @@
-/home/ubuntu/keti_ws/elevationmap2_ws/devel/./cmake.lock 86
-/home/ubuntu/keti_ws/ros_env/perception_ws/devel/./cmake.lock 9
